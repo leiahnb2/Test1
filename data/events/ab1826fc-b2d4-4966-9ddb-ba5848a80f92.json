@@ -1,0 +1,22 @@
+{
+  "audiovisual_files": {
+    "2c723ade-d72e-419c-a91e-6951217c16c4": {
+      "label": "Oscar Wilde Communicates",
+      "is_offline": false,
+      "file_url": "https://ia601908.us.archive.org/23/items/wilde-lft/Oscar%20Wilde%20-%20Aug%2020th%201962%20%28LFT%29.mp3",
+      "duration": 1802
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Oscar Wilde Communicates",
+  "description": [
+    {
+      "text": "https://www.leslieflint.com/oscar-wilde-aug-20th-1962"
+    }
+  ],
+  "created_at": "2024-11-06T21:14:34.092Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2024-11-06T21:14:34.092Z",
+  "updated_by": "leiahnb2"
+}
